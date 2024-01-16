@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-# 👋 Hello, World! I'm [Your Name] 👨‍💻
+# 👋 Hello, World! My name's Griphen 👨‍💻
 
 Welcome to my coding universe! ✨ I'm a passionate developer, adventurer, and eternal learner. Dive into my repository galaxy and join me on this epic coding journey.
 

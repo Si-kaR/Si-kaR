@@ -103,7 +103,8 @@ Join me in this cosmic coding odyssey! 🚀✨
 
 
 <div class="row">
-  <div class="column"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=si-kar&show_icons=true&locale=en&layout=compact" alt="si-kar" style="width:50%; float: right; padding: 5px; "/></div><div class="column"><img src="https://github-readme-stats.vercel.app/api?username=si-kar&show_icons=true&locale=en" alt="GitHub Statistics" style="width:50%; float: left; padding: 5px; "/></div>
+  <div class="column"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=si-kar&show_icons=true&locale=en&layout=compact" alt="GitHub Languages" style="width:50%; align: left; float: left; padding: 5px; "/></div>
+  <div class="column"><img src="https://github-readme-stats.vercel.app/api?username=si-kar&show_icons=true&locale=en" alt="GitHub Statistics"                         style="width:50%; align: right; float: right; padding: 5px; "/></div>
 </div>
 
 

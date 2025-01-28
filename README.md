@@ -58,7 +58,7 @@ Join me in this cosmic coding odyssey! 🚀✨
 
 
 <!--<h1 align="center">Hi 👋, My Name's GRiphen </h1>-->
-<h3 align="center">A Fullstack Developer in Training ✌️😊 </h3>
+<h3 align="center"> Fullstack Developer in Training ✌️😊 </h3>
 
 <img align="right" alt="hover" width="400" height="380" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 

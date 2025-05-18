@@ -132,3 +132,5 @@ Join me in this cosmic coding odyssey! 🚀✨
     <img src="https://github-readme-stats.vercel.app/api?username=si-kar&show_icons=true&locale=en" alt="GitHub Statistics"/>
   </div>
 </div>-->
+
+![Divider](https://vaxerski.xyz/github/aboutme2.gif)

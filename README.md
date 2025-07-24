@@ -9,9 +9,9 @@ My dev name is Griphen, and although been to the university, I'm essentially a d
 
 - 🔭 Currently building [![Skrybe – Free Mobile Transcription App](https://img.shields.io/badge/Skrybe-%20Transcription%20App-blueviolet?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Si-kaR/Skrybe)
 
-- 🧠 Currently learning [![Networking for Cybersecurity](https://img.shields.io/badge/Networking%20for-Cybersecurity-success?style=for-the-badge&logo=virustotal&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
+- 🧠 Currently learning [![Networking Cybersecurity](https://img.shields.io/badge/Networking-Cybersecurity-success?style=for-the-badge&logo=shield&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
 
-- ⚡ Fun fact: [![Snowboard, Skydive, Wingsuit someday!](https://img.shields.io/badge/Future%20Hobbies-Snowboard%20%7C%20Skydive%20%7C%20Wingsuit%20Gliding-ff69b4?style=for-the-badge&logo=airbnb&logoColor=white)](https://youtube.com/results?search_query=wingsuit+flying)
+- ⚡ Fun fact: [![Snowboard, Skydive, Sky Gliding](https://img.shields.io/badge/Future-Snowboard%20%7C%20Skydive%20%7C%20Gliding-ff69b4?style=for-the-badge&logo=airbnb&logoColor=white)](https://youtube.com/results?search_query=wingsuit+flying)
 
 
 

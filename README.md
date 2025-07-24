@@ -7,7 +7,8 @@
 
 My dev name is Griphen, and although been to the university, I'm essentially a dev in training!!!✌️🙂 - <img src="https://komarev.com/ghpvc/?username=griphen&label=Profile%20views&color=0e75b6&style=flat" alt="griphen"/>
 
-- 🔭 I’m currently working on building <button><a href="https://github.com/Si-kaR/Skrybe"> <img align="right" width="450" src="https://raw.githubusercontent.com/Si-kaR/Skrybe/main/assets/banner.png" alt="Skrybe"/> </a></button>
+- 🔭 I’m currently working on  
+[![Skrybe – A Free Mobile Transcription App](https://img.shields.io/badge/Skrybe-Free%20Transcription%20App-blueviolet?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Si-kaR/Skrybe)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

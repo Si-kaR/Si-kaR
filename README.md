@@ -7,13 +7,11 @@
 
 My dev name is Griphen, and although been to the university, I'm essentially a dev in training!!!✌️🙂 - <img src="https://komarev.com/ghpvc/?username=griphen&label=Profile%20views&color=0e75b6&style=flat" alt="griphen"/>
 
-- 🔭 Currently building [![Skrybe – Free Mobile Transcription App](https://img.shields.io/badge/Skrybe-Free%20Transcription%20Mobile%20App-blueviolet?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Si-kaR/Skrybe)
+- 🔭 Currently building [![Skrybe – Free Mobile Transcription App](https://img.shields.io/badge/Skrybe-%20Transcription%20App-blueviolet?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Si-kaR/Skrybe)
 
-- 🌱 Currently learning [![Networking for Cybersecurity](https://img.shields.io/badge/Networking%20for-Cybersecurity-critical?style=for-the-badge&logo=shield-fox&logoColor=white)](https://github.com/Griphen?tab=repositories&q=networking)
+- 🧠 Currently learning [![Networking for Cybersecurity](https://img.shields.io/badge/Networking%20for-Cybersecurity-success?style=for-the-badge&logo=virustotal&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
 
-- 😄 Pronouns: [![He/Him/His](https://img.shields.io/badge/Pronouns-He%2FHim%2FHis-lightblue?style=for-the-badge&logo=semantic-release&logoColor=white)](https://pronoun.is/he)
-
-- ⚡ Fun fact: [![Snowboard, Skydive, Wingsuit someday!](https://img.shields.io/badge/Future%20Hobbies-Snowboard%20%7C%20Skydive%20%7C%20Wingsuit-ff69b4?style=for-the-badge&logo=airbnb&logoColor=white)](https://youtube.com/results?search_query=wingsuit+flying)
+- ⚡ Fun fact: [![Snowboard, Skydive, Wingsuit someday!](https://img.shields.io/badge/Future%20Hobbies-Snowboard%20%7C%20Skydive%20%7C%20Wingsuit%20Gliding-ff69b4?style=for-the-badge&logo=airbnb&logoColor=white)](https://youtube.com/results?search_query=wingsuit+flying)
 
 
 

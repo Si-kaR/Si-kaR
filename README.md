@@ -164,3 +164,35 @@ Join me in this cosmic coding odyssey! 🚀✨
 </a>
 
 ![Divider](https://vaxerski.xyz/github/divider.png)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&exclude_repo=FullStack,89212025_customer_churn,Ai_Space,LINN-ODAC&layout=compact&theme=github_dark&langs_count=8)
+
+![Divider](https://vaxerski.xyz/github/divider.png)
+
+![Si-kaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-kaR&show_icons=true&theme=github_dark)
+
+![Divider](https://vaxerski.xyz/github/divider.png)
+
+### 🚀 Highlighted Projects
+
+- 🎙️ [Skrybe](https://github.com/Si-kaR/Skrybe): A smart Flutter-based mobile transcription app with offline support and AI.
+- 📊 [NIMBUS](https://github.com/Si-kaR/NIMBUS): Python personal finance assistant powered by smart budgeting tools.
+- 🧠 [Customer Churn AI Prediction](https://github.com/Si-kaR/89212025_customer_churn): Jupyter-based ML project predicting customer churn.
+- 🌐 [surfAce](https://github.com/Si-kaR/surfAce): A lightweight web app for surfers to find spots, learn, and connect.
+- 🎮 [Tech-Dash-Devt](https://github.com/Si-kaR/Tech-Dash-Devt): Endless Runner Game built during Game Dev coursework.
+
+![Divider](https://vaxerski.xyz/github/divider.png)
+
+### 🛠️ Languages & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+
+
+

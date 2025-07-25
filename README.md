@@ -1,6 +1,5 @@
+![Banner](https://github.com/Si-kaR/Collage/blob/main/git-headrr.png?raw=true)
 ![Welcome](https://github.com/Si-kaR/Collage/blob/main/git-banner.gif?raw=true)
-
-![Banner](https://github.com/Si-kaR/Collage/blob/main/git-header.png?raw=true)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)  <img align="right" alt="hover" width="400" height="380" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
@@ -16,7 +15,7 @@ I’m a developer on a growth journey! Learning, building, and slow but sturdily
 
 ![Divider](https://vaxerski.xyz/github/stats1.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&exclude_repo=FullStack,89212025_customer_churn,Ai_Space,LINN-ODAC&layout=compact&theme=github_dark&langs_count=8) ![Si-kaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-kaR&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&exclude_repo=FullStack,89212025_customer_churn,Hack,CMake,C++,Ai_Space,LINN-ODAC&layout=compact&theme=github_dark&langs_count=8) ![Si-kaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-kaR&show_icons=true&theme=github_dark)
 
 ![Divider](https://vaxerski.xyz/github/divider.png)
 
@@ -27,11 +26,9 @@ I’m a developer on a growth journey! Learning, building, and slow but sturdily
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)

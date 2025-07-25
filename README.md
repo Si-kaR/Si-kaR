@@ -12,7 +12,7 @@ I’m a developer on a growth journey! Learning, building, and slow but sturdily
 
 - Currently learning [![Networking For Cybersecurity](https://img.shields.io/badge/Networking-%20Cybersecurity-blueviolet?style=for-the-badge&logo=snyk&logoColor=white)]([https://github.com/Si-kaR/Skrybe](https://www.netacad.com/certificates?issuanceId=983db849-caf7-44a6-9558-13ab44c1bd97))
 
-![Divider](https://vaxerski.xyz/github/stats1.gif)
+![Divider](https://github.com/Si-kaR/Collage/blob/main/stats-divider.gif?raw=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&exclude_repo=FullStack,89212025_customer_churn,Hack,CMake,C++,Ai_Space,LINN-ODAC&layout=compact&theme=github_dark&langs_count=8) ![Si-kaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-kaR&show_icons=true&theme=github_dark)
 

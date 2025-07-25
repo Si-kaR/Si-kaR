@@ -1,5 +1,4 @@
 ![Banner](https://github.com/Si-kaR/Collage/blob/main/git-headrr.png?raw=true)
-![Welcome](https://github.com/Si-kaR/Collage/blob/main/git-banner.gif?raw=true)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)  <img align="right" alt="hover" width="400" height="380" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
@@ -34,6 +33,7 @@ I’m a developer on a growth journey! Learning, building, and slow but sturdily
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+![Welcome](https://github.com/Si-kaR/Collage/blob/main/git-banner.gif?raw=true)
 
 <!-- - ⚡ Fun fact: [![Snowboard, Skydive, Sky Gliding](https://img.shields.io/badge/Future-Snowboard%20%7C%20Skydive%20%7C%20Gliding-ff69b4?style=for-the-badge&logo=airbnb&logoColor=white)](https://youtube.com/results?search_query=wingsuit+flying)
 -->

@@ -1,6 +1,5 @@
 ![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
-
 ![Welcome](https://github.com/TopGif.gif)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)  <img align="right" alt="hover" width="400" height="380" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
@@ -10,6 +9,41 @@ My dev name is Griphen, and although been to the university, I'm essentially a d
 - Currently building [![Skrybe – Free Mobile Transcription App](https://img.shields.io/badge/Skrybe-%20Transcription%20App-blueviolet?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Si-kaR/Skrybe)
 
 - Currently learning [![Networking Cybersecurity](https://img.shields.io/badge/Networking-Cybersecurity-success?style=for-the-badge&logo=shield&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
+
+
+<h3 align="left">Languages, Tools and Assets: 
+ </h3>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="33" height="33"/> </a> || <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <!--<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>-->  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> || <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> <!--<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>-->  <!--<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> --> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> || <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>||<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></p>
+<!--
+<p><img align="centre" width="1000px" src="https://github-readme-streak-stats.herokuapp.com/?user=si-kar&show_icons=true&locale=en&layout=compact" alt="streak" /></p>
+-->
+
+
+![Divider](https://vaxerski.xyz/github/stats1.gif)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&exclude_repo=FullStack,89212025_customer_churn,Ai_Space,LINN-ODAC&layout=compact&theme=github_dark&langs_count=8)
+
+![Si-kaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-kaR&show_icons=true&theme=github_dark)
+
+![Divider](https://vaxerski.xyz/github/divider.png)
+
+
+### 🛠️ Languages & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 
 <!-- - ⚡ Fun fact: [![Snowboard, Skydive, Sky Gliding](https://img.shields.io/badge/Future-Snowboard%20%7C%20Skydive%20%7C%20Gliding-ff69b4?style=for-the-badge&logo=airbnb&logoColor=white)](https://youtube.com/results?search_query=wingsuit+flying)
 -->
@@ -103,15 +137,6 @@ Join me in this cosmic coding odyssey! 🚀✨
 </p>-->
 
 
-<h3 align="left">Languages, Tools and Assets: 
- </h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="33" height="33"/> </a> || <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <!--<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>-->  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> || <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> <!--<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>-->  <!--<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> --> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> || <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>||<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></p>
-<!--
-<p><img align="centre" width="1000px" src="https://github-readme-streak-stats.herokuapp.com/?user=si-kar&show_icons=true&locale=en&layout=compact" alt="streak" /></p>
--->
-
-
-
 <!--
 <div class="row">
   <div class="column"><img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=si-kar&show_icons=true&locale=en" alt="GitHub Statistics" /></div>
@@ -149,49 +174,18 @@ Join me in this cosmic coding odyssey! 🚀✨
   </div>
 </div>-->
 
-![Divider](https://vaxerski.xyz/github/stats1.gif)
-
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufexan&layout=compact&theme=github_dark&langs_count=8&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex" >
 </a>-->
 
-<a href="https://github.com/Si-kaR/github-readme-stats">
+<!--<a href="https://github.com/Si-kaR/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&layout=compact&theme=github_dark&langs_count=8&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex" >
-</a>
+</a>-->
 
-<a href="https://github.com/Si-kaR/github-readme-stats">
+<!--<a href="https://github.com/Si-kaR/github-readme-stats">
   <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=Si-kaR&theme=github_dark&count_private=true&show_icons=true" />
-</a>
+</a>-->
 
-![Divider](https://vaxerski.xyz/github/divider.png)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&exclude_repo=FullStack,89212025_customer_churn,Ai_Space,LINN-ODAC&layout=compact&theme=github_dark&langs_count=8)
-
-![Divider](https://vaxerski.xyz/github/divider.png)
-
-![Si-kaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-kaR&show_icons=true&theme=github_dark)
-
-![Divider](https://vaxerski.xyz/github/divider.png)
-
-### 🚀 Highlighted Projects
-
-- 🎙️ [Skrybe](https://github.com/Si-kaR/Skrybe): A smart Flutter-based mobile transcription app with offline support and AI.
-- 📊 [NIMBUS](https://github.com/Si-kaR/NIMBUS): Python personal finance assistant powered by smart budgeting tools.
-- 🧠 [Customer Churn AI Prediction](https://github.com/Si-kaR/89212025_customer_churn): Jupyter-based ML project predicting customer churn.
-- 🌐 [surfAce](https://github.com/Si-kaR/surfAce): A lightweight web app for surfers to find spots, learn, and connect.
-- 🎮 [Tech-Dash-Devt](https://github.com/Si-kaR/Tech-Dash-Devt): Endless Runner Game built during Game Dev coursework.
-
-![Divider](https://vaxerski.xyz/github/divider.png)
-
-### 🛠️ Languages & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 
 

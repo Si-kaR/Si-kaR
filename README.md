@@ -3,7 +3,7 @@
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)  <img align="right" alt="hover" width="400" height="380" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <!--I am a developer in training! although been to the university, I'm essentially a dev in training!!!✌️🙂 - <img src="https://komarev.com/ghpvc/?username=griphen&label=Profile%20views&color=0e75b6&style=flat" alt="griphen"/>-->
-My name's Robert but as a tech bro I’m referred to as Gr!phen and I'm an open-minded indiviual with interests not tied only to the industry. I don't just code for class or clients, I also explore and experiment on my own. <img src="https://komarev.com/ghpvc/?username=griphen&label=Profile%20views&color=0e75b6&style=flat" alt="griphen"/> 
+As a tech bro I'm referred to as Gr!phen, however my first name is Robert and I'm an open-minded indiviual with interests not only tied to industry. I don't just code for class or clients, I also explore and experiment on my own. <img src="https://komarev.com/ghpvc/?username=griphen&label=Profile%20views&color=0e75b6&style=flat" alt="griphen"/> 
 
 I’m a developer on a growth journey! Learning, building, and slow but sturdily becoming a developer! 🎓 I’m currently pursuing my academic and professional growth in Computer Science, building everything from AI prediction models and mobile apps with Flutter, to interactive games and hopefully full-stack web tools. I believe in tech for good! Using software as a tool to empower communities and improve lives through problem solving.
 
@@ -12,7 +12,7 @@ I’m a developer on a growth journey! Learning, building, and slow but sturdily
 
 - Currently learning [![Networking For Cybersecurity](https://img.shields.io/badge/Networking-%20Cybersecurity-blueviolet?style=for-the-badge&logo=snyk&logoColor=white)]([https://github.com/Si-kaR/Skrybe](https://www.netacad.com/certificates?issuanceId=983db849-caf7-44a6-9558-13ab44c1bd97))
 
-![Divider](https://github.com/Si-kaR/Collage/blob/main/stats-divider.gif?raw=true)
+![Divider](https://github.com/Si-kaR/Collage/blob/main/git-stats-divider.gif?raw=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&exclude_repo=FullStack,89212025_customer_churn,Hack,CMake,C++,Ai_Space,LINN-ODAC&layout=compact&theme=github_dark&langs_count=8) ![Si-kaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-kaR&show_icons=true&theme=github_dark)
 

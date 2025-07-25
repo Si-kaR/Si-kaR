@@ -12,7 +12,7 @@ I’m a developer on a growth journey! Learning, building, and slow but sturdily
 
 - Currently building [![Skrybe – Free Mobile Transcription App](https://img.shields.io/badge/Skrybe-%20Transcription%20App-blueviolet?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Si-kaR/Skrybe)
 
-- Currently learning [![Networking Cybersecurity](https://img.shields.io/badge/Networking-Cybersecurity-success?style=for-the-badge&logo=snyk&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
+- Currently learning [![Networking Cybersecurity](https://img.shields.io/badge/Networking-Cybersecurity-success?style=for-the-badge&logo=https://raw.githubusercontent.com/Si-kaR/Collage/main/ninja.png&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
 
 
 ![Divider](https://vaxerski.xyz/github/stats1.gif)

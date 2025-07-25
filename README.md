@@ -150,10 +150,17 @@ Join me in this cosmic coding odyssey! 🚀✨
 </div>-->
 
 ![Divider](https://vaxerski.xyz/github/stats1.gif)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufexan&layout=compact&theme=github_dark&langs_count=8&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex" >
+</a>-->
+
+<a href="https://github.com/Si-kaR/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&theme=github_dark&langs_count=8&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex" >
 </a>
+
 <a href="https://github.com/Si-kaR/github-readme-stats">
   <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=Si-kaR&theme=github_dark&count_private=true&show_icons=true" />
 </a>
+
 ![Divider](https://vaxerski.xyz/github/divider.png)

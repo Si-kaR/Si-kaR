@@ -7,9 +7,9 @@
 
 My dev name is Griphen, and although been to the university, I'm essentially a dev in training!!!✌️🙂 - <img src="https://komarev.com/ghpvc/?username=griphen&label=Profile%20views&color=0e75b6&style=flat" alt="griphen"/>
 
-- 🔭 Currently building [![Skrybe – Free Mobile Transcription App](https://img.shields.io/badge/Skrybe-%20Transcription%20App-blueviolet?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Si-kaR/Skrybe)
+- Currently building [![Skrybe – Free Mobile Transcription App](https://img.shields.io/badge/Skrybe-%20Transcription%20App-blueviolet?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Si-kaR/Skrybe)
 
-- 🧠 Currently learning [![Networking Cybersecurity](https://img.shields.io/badge/Networking-Cybersecurity-success?style=for-the-badge&logo=shield&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
+- Currently learning [![Networking Cybersecurity](https://img.shields.io/badge/Networking-Cybersecurity-success?style=for-the-badge&logo=shield&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
 
 <!-- - ⚡ Fun fact: [![Snowboard, Skydive, Sky Gliding](https://img.shields.io/badge/Future-Snowboard%20%7C%20Skydive%20%7C%20Gliding-ff69b4?style=for-the-badge&logo=airbnb&logoColor=white)](https://youtube.com/results?search_query=wingsuit+flying)
 -->

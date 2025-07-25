@@ -5,8 +5,11 @@
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)  <img align="right" alt="hover" width="400" height="380" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <!--I am a developer in training! although been to the university, I'm essentially a dev in training!!!✌️🙂 - <img src="https://komarev.com/ghpvc/?username=griphen&label=Profile%20views&color=0e75b6&style=flat" alt="griphen"/>-->
-I’m a developer on a growth journey — learning, building, and gradually becoming better!  
-<img src="https://komarev.com/ghpvc/?username=griphen&label=Profile%20views&color=0e75b6&style=flat" alt="griphen"/>
+I’m a developer on a growth journey — learning, building, and slow but sturdy becoming better! My name's Robert but as a tech bro I’m referred to as Gr!phen and I'm an open-minded indiviual with interests not tied only to the industry.
+
+🎓 I’m currently pursuing my academic and professional growth in Computer Science, building everything from AI prediction models and mobile apps with Flutter, to interactive games and hopefully full-stack web tools. I believe in tech for good! Using software as a tool to empower communities and improve lives through problem solving.
+
+I don't just code for class or clients, I also explore, experiment, and collaborate on my own. <img src="https://komarev.com/ghpvc/?username=griphen&label=Profile%20views&color=0e75b6&style=flat" alt="griphen"/>
 
 
 - Currently building [![Skrybe – Free Mobile Transcription App](https://img.shields.io/badge/Skrybe-%20Transcription%20App-blueviolet?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Si-kaR/Skrybe)

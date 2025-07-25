@@ -14,7 +14,10 @@ I’m a developer on a growth journey! Learning, building, and slow but sturdily
 
 ![Divider](https://github.com/Si-kaR/Collage/blob/main/git-stats-divider.gif?raw=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&exclude_repo=FullStack,89212025_customer_churn,Hack,CMake,C++,Ai_Space,LINN-ODAC&layout=compact&theme=github_dark&langs_count=8) ![Si-kaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-kaR&show_icons=true&theme=github_dark)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&exclude_repo=FullStack,89212025_customer_churn,Ai_Space,LINN-ODAC&layout=compact&theme=github_dark&langs_count=8) ![Si-kaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-kaR&show_icons=true&theme=github_dark)-->\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&exclude_repo=FullStack,89212025_customer_churn,Ai_Space,LINN-ODAC,IRRS_Interactive_Restaurant_Reservation_System-,CS331-COA-SUMMER-PROJECT-FINAL,Java_OOP_Submission&layout=compact&theme=github_dark&langs_count=8)
+![Si-kaR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Si-kaR&show_icons=true&theme=github_dark)
+
 
 ![Divider](https://vaxerski.xyz/github/divider.png)
 

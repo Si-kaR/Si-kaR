@@ -1,6 +1,8 @@
-![Welcome](https://vaxerski.xyz/github/TopGif.gif)
-
 ![Welcome](https://github.com/Si-kaR/Collage/blob/main/git-banner.gif?raw=true)
+
+![Divider](https://vaxerski.xyz/github/divider.png)
+
+![Banner](https://github.com/Si-kaR/Collage/blob/main/git-header.png?raw=true)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)  <img align="right" alt="hover" width="400" height="380" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 

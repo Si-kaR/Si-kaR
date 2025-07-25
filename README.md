@@ -156,7 +156,7 @@ Join me in this cosmic coding odyssey! 🚀✨
 </a>-->
 
 <a href="https://github.com/Si-kaR/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&theme=github_dark&langs_count=8&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si-kaR&layout=compact&theme=github_dark&langs_count=8&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex" >
 </a>
 
 <a href="https://github.com/Si-kaR/github-readme-stats">
